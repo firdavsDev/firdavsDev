@@ -1,11 +1,11 @@
 ![Welcome!](86T4GWHN.gif)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/firdavsDev)](https://github.com/firdavsDev)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavsDev)](https://t.me/firdavsDev)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_Dev)](https://t.me/firdavs_Dev)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarjimatv1@gmail.com)](mailto:tarjimatv1@gmail.com)
 
 
-[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&show_icons=true&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/firdavsDev/)
+[![Firdav's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&show_icons=true&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/firdavsDev/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsDev&layout=compact&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/firdavsDev/)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@3907911d-fd83-40b5-9409-3a87fc5e4678/14b649eb-47d8-4718-bb45-4ed60f2cdba3.png" /></a>
