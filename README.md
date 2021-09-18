@@ -1,4 +1,4 @@
-![Welcome!](3Io4KmzAY.gif)
+![Welcome!](86T4GWHN.gif)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/firdavsDev)](https://github.com/firdavsDev)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavsDev)](https://t.me/firdavsDev)
