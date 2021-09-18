@@ -21,4 +21,4 @@
 
 GitMemory: https://gitmemory.com/firdavsDev
 
-readme: Docs: https://github.com/anuraghazra/github-readme-stats
+<!-- readme: Docs: https://github.com/anuraghazra/github-readme-stats -->
