@@ -5,9 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarjimatv1@gmail.com)](mailto:tarjimatv1@gmail.com)
 
 
-[![Firdav's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&show_icons=true&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/firdavsDev/)
+[![Firdav's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&show_icons=true&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://firdavsdev.vercel.app/)
 </br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsDev&layout=compact&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/firdavsDev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsDev&layout=compact&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://firdavsdev.vercel.app/)
 
 [![Firdavs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Firdavs_Dev)](https://github.com/fitdavsDev)
 
