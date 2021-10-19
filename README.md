@@ -21,11 +21,10 @@
 
 GitMemory: https://gitmemory.com/firdavsDev
 
-<!-- readme: Docs: https://github.com/anuraghazra/github-readme-stats -->
 
 
-csdcsdc
 
+<!-- 
 
 ![Welcome!](86T4GWHN.gif)
 
@@ -45,4 +44,4 @@ csdcsdc
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /> -->
 
 ------------
-GitMemory: https://gitmemory.com/asakew
+GitMemory: https://gitmemory.com/asakew -->
