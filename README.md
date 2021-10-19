@@ -6,6 +6,8 @@
 
 
 [![Firdav's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&show_icons=true&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://firdavsdev.vercel.app/)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firdavsDev&theme=react" alt="Firdavs Dev Github Status" />
+</p>
 </br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsDev&layout=compact&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://firdavsdev.vercel.app/)
 
@@ -16,8 +18,7 @@
 
 <!-- [![Firdav's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)] -->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firdavsDev&theme=react" alt="Firdavs Dev Github Status" />
-</p>
+
 
 GitMemory: https://gitmemory.com/firdavsDev
 
