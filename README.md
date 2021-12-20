@@ -12,8 +12,6 @@
 
 <!-- [![Firdavs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Firdavs_Dev)](https://github.com/fitdavsDev) -->
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@3907911d-fd83-40b5-9409-3a87fc5e4678/14b649eb-47d8-4718-bb45-4ed60f2cdba3.png" /></a> 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@3907911d-fd83-40b5-9409-3a87fc5e4678/d9498eb7-3a18-4a36-b33a-b51c99e36952.png" /></a>
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firdavsDev&theme=react" alt="Firdavs Dev Github Status" />
