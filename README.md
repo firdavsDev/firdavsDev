@@ -7,7 +7,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asakew&theme=github_dark&layout=compact)](https://wakatime.com/@asakew)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Firdavs_Dev&theme=github_dark&layout=compact)](https://wakatime.com/@Firdavs_Dev)
 
 [![asakew's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
