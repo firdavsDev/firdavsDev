@@ -1,26 +1,31 @@
+
+
+<!-- Managing your profile README -->
+<!-- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
+
 ![Welcome!](86T4GWHN.gif)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/firdavsDev)](https://github.com/firdavsDev)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_Dev)](https://t.me/firdavs_Dev)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarjimatv1@gmail.com)](mailto:tarjimatv1@gmail.com)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asakew&theme=github_dark&layout=compact)](https://wakatime.com/@asakew)
+
+[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/)
+<!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=firdavsDev&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/davronbek-boltayev)](https://www.linkedin.com/in/davronbek-boltayev/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xackercoder@gmail.com)](mailto:xackercoder@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/firdavs_dev)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=firdavsDev&theme=xcode" />
+<!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=firdavsDev&margin-w=5&theme=radical" alt="info" />
 
 
-[![Firdav's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&show_icons=true&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://firdavsdev.vercel.app/)
-
-</br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsDev&layout=compact&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://firdavsdev.vercel.app/)
-
-<!-- [![Firdavs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Firdavs_Dev)](https://github.com/fitdavsDev) -->
-
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firdavsDev&theme=react" alt="Firdavs Dev Github Status" />
-</p>
-
-
+------------
 GitMemory: https://gitmemory.com/firdavsDev
-
-
-
 
 
