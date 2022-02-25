@@ -27,7 +27,10 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=firdavsDev&margin-w=5&theme=radical" alt="info" />
 
-
+<p>
+  <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
+<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
+</p>
 ------------
 GitMemory: https://gitmemory.com/firdavsDev
 
