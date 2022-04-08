@@ -21,7 +21,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/davronbek-boltayev)](https://www.linkedin.com/in/davronbek-boltayev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xackercoder@gmail.com)](mailto:xackercoder@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/firdavs_dev)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=firdavsDev&color=brightgreen" alt="firdavsDev"/> </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=firdavsDev&theme=xcode" />
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
 
