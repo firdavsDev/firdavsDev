@@ -33,6 +33,7 @@
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
 
 **Front-end**
 
@@ -50,6 +51,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digitalocean" />
 
 **Learning**
 
@@ -62,7 +64,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xackercoder@gmail.com)](mailto:xackercoder@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/firdavs_dev)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firdavsDev&color=brightgreen" alt="firdavsDev"/> </p>
+<p> 
+<img src="https://komarev.com/ghpvc/?username=firdavsDev&color=brightgreen" alt="firdavsDev"/>
+<a href="https://github.com/firdavsDev?tab=followers">
+    <img src="https://img.shields.io/github/followers/firdavsDev?label=Followers&style=social" alt="followers-count">
+</a>
+
+</p>
 <img src="https://activity-graph.herokuapp.com/graph?username=firdavsDev&theme=xcode" />
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
 
