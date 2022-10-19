@@ -12,11 +12,11 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/)
+[![Davron's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=firdavsDev&theme=tokyonight_duo&hide_border=true)](https://github.com/firdavsDev/)
-<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- https://github.com/firdavsDev/github-readme-streak-stats -->
 
 **Back-end**
 
@@ -69,10 +69,10 @@
 <a href="https://github.com/firdavsDev?tab=followers">
     <img src="https://img.shields.io/github/followers/firdavsDev?label=Followers&style=social" alt="followers-count">
 </a>
+<a href="https://wakatime.com/@4e5f859d-4a72-40d4-b9f2-7466701f3c27"><img src="https://wakatime.com/badge/user/4e5f859d-4a72-40d4-b9f2-7466701f3c27.svg" alt="Total time coded since Sep 18 2021" /></a>
 
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=firdavsDev&theme=xcode" />
-<!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=firdavsDev&margin-w=5&theme=radical" alt="info" />
 
