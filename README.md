@@ -70,8 +70,11 @@
     <img src="https://img.shields.io/github/followers/firdavsDev?label=Followers&style=social" alt="followers-count">
 </a>
 <a href="https://wakatime.com/@4e5f859d-4a72-40d4-b9f2-7466701f3c27"><img src="https://wakatime.com/badge/user/4e5f859d-4a72-40d4-b9f2-7466701f3c27.svg" alt="Total time coded since Sep 18 2021" /></a>
+<a href="https://www.buymeacoffee.com/Akhmadjon.dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Akhmadjon.dev" /></a>
 
 </p>
+
+<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=firdavsDev&theme=xcode" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=firdavsDev&margin-w=5&theme=radical" alt="info" />
