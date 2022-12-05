@@ -75,7 +75,6 @@
 </p>
 
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=firdavsDev&theme=xcode" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=firdavsDev&margin-w=5&theme=radical" alt="info" />
 
