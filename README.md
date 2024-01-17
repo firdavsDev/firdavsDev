@@ -1,9 +1,13 @@
 ![Welcome!](86T4GWHN.gif)
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">  -->
+<center>
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=firdavsDev&theme=tokyonight_duo&hide_border=true)](https://github.com/firdavsDev/)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirdavsDev&theme=github_dark&layout=compact)](https://wakatime.com/@FirdavsDev)
+</center>
+
+<!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirdavsDev&theme=github_dark&layout=compact)](https://wakatime.com/@FirdavsDev) -->
 
 <!-- **Back-end**
 
@@ -23,7 +27,6 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman) -->
-[![Hits](https://hits.sh/github.com/firdavsDev.svg)](https://hits.sh/github.com/firdavsDev/)
 
 
 **Contact**
@@ -31,7 +34,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/davronbek-boltayev)](https://www.linkedin.com/in/davronbek-boltayev/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/firdavs_dev)
 
-
+------------
+[![Hits](https://hits.sh/github.com/firdavsDev.svg)](https://hits.sh/github.com/firdavsDev/)
 ------------
 
 
