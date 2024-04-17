@@ -1,11 +1,13 @@
 ![Welcome!](86T4GWHN.gif)
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">  -->
-<center>
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=firdavsDev&theme=tokyonight_duo&hide_border=true)](https://github.com/firdavsDev/)
 
-</center>
+<p align="center">
+  <span>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=firdavsDev&theme=tokyonight_duo&hide_border=true)](https://github.com/firdavsDev/)
+  </span>
+</p>
+
 
 <!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirdavsDev&theme=github_dark&layout=compact)](https://wakatime.com/@FirdavsDev) -->
 
