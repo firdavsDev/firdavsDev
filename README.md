@@ -1,4 +1,4 @@
-![Welcome!](86T4GWHN.gif)
+<!--![Welcome!](86T4GWHN.gif)  -->
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">  -->
 
