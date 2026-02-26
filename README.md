@@ -37,8 +37,6 @@
 ------------
 [![Hits](https://hits.sh/github.com/firdavsDev.svg)](https://hits.sh/github.com/firdavsDev/)
 [![wakatime](https://wakatime.com/badge/user/4e5f859d-4a72-40d4-b9f2-7466701f3c27.svg)](https://wakatime.com/@4e5f859d-4a72-40d4-b9f2-7466701f3c27)
-------------
-
 
 <!--  ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-snake.svg) -->
 
